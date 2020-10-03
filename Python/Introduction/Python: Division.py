@@ -1,4 +1,4 @@
-if __name__ == '__main__':
+# Please make sure to check Indentation if code shows error
     a = int(input())
     b = int(input())
     print(int(a/b))
