@@ -1,4 +1,4 @@
-if __name__ == '__main__':
+# Please make sure to check Indentation if code shows error
     n = int(input())
     for x in range(0,n) :
         print("{}".format(x*x))
