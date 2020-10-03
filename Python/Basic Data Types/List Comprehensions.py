@@ -1,4 +1,4 @@
-if __name__ == '__main__':
+# Please make sure to check Indentation if code shows error
     x = int(input())
     y = int(input())
     z = int(input())
