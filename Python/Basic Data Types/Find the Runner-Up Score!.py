@@ -1,4 +1,4 @@
-if __name__ == '__main__':
+# Please make sure to check Indentation if code shows error
     n = int(input())
     a = 0
     arr = map(int, input().split())
